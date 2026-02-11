@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using OrderManagementSystem.Core.Abstractions.Repositories;
+global using OrderManagementSystem.Core.Abstractions.UOW;
+global using OrderManagementSystem.Core.Entities;
+global using OrderManagementSystem.Core.Entities.Enums;
+global using OrderManagementSystem.Infrastructure.Data;
+global using OrderManagementSystem.Infrastructure.Repositories;
+global using System.Linq.Expressions;

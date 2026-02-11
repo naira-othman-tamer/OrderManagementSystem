@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "MacBook Pro 16-inch M3",
+    "Price": 2499.99,
+    "Stock": 15
+  },
+  {
+    "Name": "Dell XPS 15 Laptop",
+    "Price": 1899.00,
+    "Stock": 20
+  },
+  {
+    "Name": "iPhone 15 Pro Max",
+    "Price": 1199.99,
+    "Stock": 50
+  },
+  {
+    "Name": "Samsung Galaxy S24 Ultra",
+    "Price": 1099.00,
+    "Stock": 35
+  },
+  {
+    "Name": "Sony WH-1000XM5 Headphones",
+    "Price": 399.99,
+    "Stock": 40
+  },
+  {
+    "Name": "Apple AirPods Pro (2nd Gen)",
+    "Price": 249.00,
+    "Stock": 60
+  },
+  {
+    "Name": "Apple Watch Series 9",
+    "Price": 429.00,
+    "Stock": 25
+  },
+  {
+    "Name": "Samsung Galaxy Watch 6",
+    "Price": 349.99,
+    "Stock": 30
+  },
+  {
+    "Name": "iPad Pro 12.9-inch",
+    "Price": 1099.00,
+    "Stock": 18
+  },
+  {
+    "Name": "Samsung Galaxy Tab S9",
+    "Price": 899.99,
+    "Stock": 22
+  },
+  {
+    "Name": "PlayStation 5",
+    "Price": 499.99,
+    "Stock": 12
+  },
+  {
+    "Name": "Xbox Series X",
+    "Price": 499.00,
+    "Stock": 10
+  },
+  {
+    "Name": "Nintendo Switch OLED",
+    "Price": 349.99,
+    "Stock": 28
+  },
+  {
+    "Name": "Canon EOS R6 Mark II",
+    "Price": 2499.00,
+    "Stock": 8
+  },
+  {
+    "Name": "Sony Alpha A7 IV",
+    "Price": 2299.99,
+    "Stock": 6
+  },
+  {
+    "Name": "Anker PowerCore 26800mAh",
+    "Price": 65.99,
+    "Stock": 100
+  },
+  {
+    "Name": "Belkin 20000mAh Power Bank",
+    "Price": 49.99,
+    "Stock": 85
+  },
+  {
+    "Name": "LG 27-inch 4K Monitor",
+    "Price": 449.00,
+    "Stock": 14
+  },
+  {
+    "Name": "Logitech MX Master 3S Mouse",
+    "Price": 99.99,
+    "Stock": 45
+  },
+  {
+    "Name": "Mechanical Keyboard RGB",
+    "Price": 129.99,
+    "Stock": 38
+  }
+]

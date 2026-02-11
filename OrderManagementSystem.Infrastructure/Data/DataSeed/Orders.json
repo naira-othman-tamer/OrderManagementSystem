@@ -1,0 +1,66 @@
+[
+  {
+   
+    "CustomerId": 1,
+    "OrderDate": "2025-01-15T10:30:00",
+    "TotalAmount": 3749.98,
+    "PaymentMethod": "CreditCard",
+    "Status": "Delivered"
+  },
+  {
+   
+    "CustomerId": 1,
+    "OrderDate": "2025-01-20T14:15:00",
+    "TotalAmount": 649.98,
+    "PaymentMethod": "PayPal",
+    "Status": "Shipped"
+  },
+  {
+    
+    "CustomerId": 2,
+    "OrderDate": "2025-01-22T09:00:00",
+    "TotalAmount": 1998.99,
+    "PaymentMethod": "CreditCard",
+    "Status": "Delivered"
+  },
+  {
+    
+    "CustomerId": 2,
+    "OrderDate": "2025-02-01T16:45:00",
+    "TotalAmount": 429.00,
+    "PaymentMethod": "CreditCard",
+    "Status": "Pending"
+  },
+  {
+   
+    "CustomerId": 3,
+    "OrderDate": "2025-01-18T11:20:00",
+    "TotalAmount": 999.98,
+    "PaymentMethod": "PayPal",
+    "Status": "Shipped"
+  },
+  {
+ 
+    "CustomerId": 3,
+    "OrderDate": "2025-02-03T13:00:00",
+    "TotalAmount": 349.99,
+    "PaymentMethod": "CreditCard",
+    "Status": "Pending"
+  },
+  {
+   
+    "CustomerId": 4,
+    "OrderDate": "2025-01-25T15:30:00",
+    "TotalAmount": 2813.99,
+    "PaymentMethod": "CreditCard",
+    "Status": "Delivered"
+  },
+  {
+   
+    "CustomerId": 4,
+    "OrderDate": "2025-02-05T10:00:00",
+    "TotalAmount": 115.98,
+    "PaymentMethod": "PayPal",
+    "Status": "Canceled"
+  }
+]
